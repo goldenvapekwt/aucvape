@@ -1,0 +1,406 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202111 will be lost/reset.
+# Last config file used to build this data file was /home/gjq4bqkro9y9/tmp/awstats/ssl/awstats.aucvape.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2691                
+POS_VISITOR 9210                
+POS_DAY 11091               
+POS_DOMAIN 3306                
+POS_LOGIN 3655                
+POS_ROBOT 3810                
+POS_WORMS 4049                
+POS_EMAILSENDER 4180                
+POS_EMAILRECEIVER 4323                
+POS_SESSION 11730               
+POS_SIDER 11907               
+POS_FILETYPES 4458                
+POS_DOWNLOADS 4594                
+POS_OS 4642                
+POS_BROWSER 4778                
+POS_SCREENSIZE 5085                
+POS_UNKNOWNREFERER 5159                
+POS_UNKNOWNREFERERBROWSER 5284                
+POS_ORIGIN 5724                
+POS_SEREFERRALS 5858                
+POS_PAGEREFS 6039                
+POS_SEARCHWORDS 6187                
+POS_KEYWORDS 6339                
+POS_MISC 2355                
+POS_ERRORS 6398                
+POS_CLUSTER 3511                
+POS_SIDER_404 6505                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20211201012650 7 1186 14873063650584
+FirstTime 20211101160325
+LastTime 20211129210547
+LastUpdate 20211201051302 7 0 6 0 0
+TotalVisits 72                  
+TotalUnique 47                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 48                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 1005 1 5 0
+1 3 5 5119 7 36 2987
+2 4 6 7648 11 37 482
+3 4 6 7739 9 30 241
+4 3 3 3427 12 28 0
+5 4 6 7648 8 34 241
+6 1 1 335 8 9 0
+7 4 4 1340 8 11 0
+8 5 6 6892 15 50 0
+9 8 16 22698 10 100 964
+10 0 0 0 6 6 2157
+11 0 0 0 28 30 0
+12 7 11 19416 18 104 241
+13 11 22 39836 19 155 38484
+14 3 5 9735 7 25 3335
+15 4 4 6806 2 35 0
+16 6 8 8318 13 42 241
+17 3 5 4291 7 56 2157
+18 4 6 11281 7 19 241
+19 2 3 3465 7 43 0
+20 3 3 1005 3 4 0
+21 3 3 1005 1 1 0
+22 8 10 17576 16 114 276
+23 2 2 670 7 16 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+kw 69 99 126668
+us 7 8 16050
+ae 5 5 1675
+za 3 5 9716
+sa 3 5 9365
+id 3 5 7404
+ro 1 1 2757
+eg 1 3 4221
+gb 1 3 3621
+tr 1 1 2157
+lb 1 3 3621
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+Googlebot/ 3 4769 20211121152735 0
+bingbot/ 2 5144 20211122013347 0
+no_user_agent 1 37761 20211129130608 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+png 43 44630 0 0
+xml 39 13065 0 0
+html 49 126578 0 0
+Unknown 7 2982 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+Unknown 3 3
+macosx 51 48
+linuxandroid 33 20
+win10 3 2
+ios_iphone 48 22
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 13
+chrome59.0.3071.125 2 2
+chrome88.0.4324.93 5 3
+safari 1 1
+safari15.0 14 6
+safari15.1 9 3
+chrome90.0.4430.210 11 6
+Unknown 42 42
+chrome95.0.4638.74 7 5
+chrome95.0.4638.69 7 5
+chrome95.0.4638.50 4 2
+safari14.1.2 23 13
+safari14.0.3 9 5
+chrome96.0.4664.45 4 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+python-requests/2.26.0 20211117145009
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+MacOutlook/16.55.21111400_(ARM64_Mac_OS_X_12.0.1_(Build_21A559)) 20211129210547
+MacOutlook/16.54.21101001_(ARM64_Mac_OS_X_11.6_(Build_20G165)) 20211116055723
+MacOutlook/16.55.21111400_(Intelx64_Mac_OS_X_11.6_(Build_20G165)) 20211129003219
+MacOutlook/16.54.21101001_(Intelx64_Mac_OS_X_11.6_(Build_20G165)) 20211116161028
+python-requests/2.26.0 20211117145009
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 69 69
+From1 0 0
+From2 7 7
+From3 0 0
+From4 19 62
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 6 6
+www_google_ca 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+301 18 4338
+401 1 35
+404 935 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 53
+/assets/css/fonts/Gotham-Bold.otf 2 https://aucvape.com/assets/css/custom.css
+/verifycode/www.google.com 1 -
+/mt/mt-xmlrpc.cgi 2 -
+/DKIZ.php 2 -
+/.env 11 -
+/assets/css/animate.css 49 https://aucvape.com/product.html
+/assets/js/wow.min.js 47 https://aucvape.com/securitycode/
+/.git/config 4 -
+/storage/.env 1 -
+/assets/img/maphand.svg 25 https://aucvape.com/product.html
+/assets/css/custom.css 50 https://aucvape.com/product.html
+/mt/DIZ.php 2 -
+/assets/img/product/peach.jpg 11 https://aucvape.com/product.html
+/assets/img/product/pink-lemonade.jpg 11 https://aucvape.com/product.html
+/assets/img/product/grape.jpg 11 https://aucvape.com/product.html
+/security.txt 1 -
+/assets/img/bg/omaga.png 11 https://aucvape.com/product.html
+/assets/img/product/mango.jpg 11 https://aucvape.com/product.html
+/assets/js/jquery-3.6.0.min.js 86 https://aucvape.com/product.html
+/assets/img/bg/all-vapes-1.jpg 4 -
+/info.php 1 -
+/assets/css/fonts/Gotham-Medium.otf 2 https://aucvape.com/assets/css/custom.css
+/assets/css/fonts/iCiel%20Gotham-Medium.ttf 2 https://aucvape.com/assets/css/custom.css
+/wp-login.php 2 https://www.aucvape.com/wp-login.php
+/assets/css/theme.css 49 https://aucvape.com/product.html
+/.well-known/security.txt 1 -
+/assets/img/bg/product.png 1 https://aucvape.com/assets/css/custom.css
+/assets/img/product/vgrape.svg 13 https://aucvape.com/product.html
+/assets/img/logo_white.svg 60 https://aucvape.com/product.html
+/index.html 9 -
+/assets/img/bg/hero.png 1 https://aucvape.com/assets/css/custom.css
+/phpinfo.php 1 -
+/vendor/.env 1 -
+/assets/img/product/cola.jpg 11 https://aucvape.com/product.html
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/assets/js/site.js 89 https://aucvape.com/product.html
+/public/.env 1 -
+/assets/img/product/raspberry-lemon.jpg 11 https://aucvape.com/product.html
+/admin 1 -
+/info 1 -
+/assets/js/bootstrap.bundle.min.js 72 https://aucvape.com/product.html
+/securitycode/www.google.com 1 -
+/sw.js 9 https://aucvape.com/sw.js
+/assets/img/product/tobacco.jpg 11 https://aucvape.com/product.html
+/robots.txt 33 -
+/assets/img/bg/map.svg 24 https://aucvape.com/product.html
+/www.google.com 1 -
+/sitecore/shell/ClientBin/Reporting/Report.ashx 1 -
+/assets/img/product/watermelon.jpg 11 https://aucvape.com/product.html
+/ 152 -
+/assets/img/logo_new.svg 12 https://aucvape.com/product.html
+/sitemap.xml 3 -
+/assets/img/bg/peach.jpg 5 https://www.google.co.uk/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 48
+37.34.210.204 6 6 2010 20211128124928
+188.70.53.253 6 6 2010 20211107073823
+188.70.32.122 5 7 14749 20211111220640
+188.71.204.98 4 4 1340 20211127231441
+188.236.168.215 4 7 14440 20211112132224
+188.71.244.223 4 4 1340 20211110215630
+188.71.218.141 4 5 6557 20211110080342
+86.97.64.218 4 4 1340 20211114023143
+188.71.229.4 3 3 1005 20211124201815
+196.53.110.132 3 5 9716 20211114120721
+129.211.167.200 3 3 8271 20211117145009
+188.71.207.164 3 5 9965 20211118132011
+102.57.206.119 3 5 7404 20211120034211
+188.70.0.217 2 2 670 20211119095226
+94.128.64.165 2 4 6978 20211121044715
+37.39.129.86 2 4 7589 20211121132241
+37.34.174.211 2 4 8189 20211124183330
+94.128.64.223 2 4 6978 20211118165416
+188.70.3.22 2 4 4784 20211125014111
+68.83.112.157 2 3 3465 20211112190129
+93.168.223.111 2 2 5144 20211107094915
+188.70.21.104 2 2 5144 20211114120736
+151.253.30.207 1 1 335 20211115034139
+197.47.228.181 1 1 2757 20211106090408
+188.71.226.48 1 1 335 20211125020615
+188.70.41.84 1 1 335 20211101160325
+66.249.81.164 1 1 2157 20211122154118
+188.71.248.21 1 1 335 20211106172050
+188.70.1.154 1 1 335 20211129210547
+37.39.177.29 1 3 4221 20211128055424
+37.231.0.33 1 1 2157 20211111220830
+188.236.152.12 1 1 2757 20211124184319
+188.71.233.149 1 1 335 20211129003219
+24.133.36.101 1 1 2157 20211122154117
+37.39.231.168 1 3 4221 20211127092854
+188.236.180.167 1 3 4221 20211109092152
+188.236.203.34 1 3 4221 20211104132236
+37.231.157.241 1 1 335 20211111073652
+188.70.47.139 1 1 335 20211102160810
+188.70.21.133 1 1 335 20211122151220
+105.46.29.99 0 2 1464 
+159.0.2.92 1 3 4221 20211107094639
+185.97.92.125 1 3 3621 20211102130122
+188.236.136.136 1 3 4221 20211117161957
+66.249.81.170 1 1 2157 20211122154118
+86.149.68.81 1 3 3621 20211106174306
+37.120.216.166 1 1 2757 20211129051113
+188.71.229.253 1 3 4221 20211107144753
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20211101 1 1 335 1
+20211102 3 5 4291 3
+20211103 1 1 335 1
+20211104 2 4 4556 2
+20211105 1 1 335 1
+20211106 4 8 8512 4
+20211107 6 10 14256 5
+20211108 1 1 335 1
+20211109 2 4 4556 2
+20211110 6 7 9649 3
+20211111 9 11 20333 5
+20211112 7 11 18240 3
+20211113 1 1 335 1
+20211114 6 8 15195 3
+20211115 1 1 335 1
+20211116 2 2 670 2
+20211117 3 5 7313 3
+20211118 6 10 17278 4
+20211119 1 1 335 1
+20211120 4 8 11625 2
+20211121 3 5 10346 2
+20211122 4 4 6806 4
+20211123 2 2 670 2
+20211124 5 7 11616 3
+20211125 4 6 5454 3
+20211126 2 2 670 2
+20211127 3 5 4891 3
+20211128 2 4 4556 2
+20211129 3 3 3427 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 67
+2mn-5mn 2
+30mn-1h 1
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/autodiscover/autodiscover.xml 39 13065 38 37
+/securitycode/ 27 74439 21 20
+/product.html 12 25884 10 8
+/fav/site.webmanifest 7 2982 0 3
+/about.html 4 11948 2 1
+/contact.html 3 6381 1 1
+/location.html 2 5314 0 1
+/verifycode/ 1 2612 0 1
+END_SIDER

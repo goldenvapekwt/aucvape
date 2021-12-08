@@ -1,0 +1,568 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202112 will be lost/reset.
+# Last config file used to build this data file was /home/gjq4bqkro9y9/tmp/awstats/ssl/awstats.aucvape.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2693                
+POS_VISITOR 14643               
+POS_DAY 14942               
+POS_DOMAIN 3208                
+POS_LOGIN 3469                
+POS_ROBOT 3624                
+POS_WORMS 3791                
+POS_EMAILSENDER 3922                
+POS_EMAILRECEIVER 4065                
+POS_SESSION 15116               
+POS_SIDER 15273               
+POS_FILETYPES 4200                
+POS_DOWNLOADS 4311                
+POS_OS 4359                
+POS_BROWSER 4479                
+POS_SCREENSIZE 4605                
+POS_UNKNOWNREFERER 4679                
+POS_UNKNOWNREFERERBROWSER 4804                
+POS_ORIGIN 5085                
+POS_SEREFERRALS 5217                
+POS_PAGEREFS 5361                
+POS_SEARCHWORDS 5509                
+POS_KEYWORDS 5661                
+POS_MISC 2357                
+POS_ERRORS 5720                
+POS_CLUSTER 3325                
+POS_SIDER_404 5816                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20211207162822 10 1596 9332288364861
+FirstTime 20211201012650
+LastTime 20211207111213
+LastUpdate 20211208051722 10 0 10 0 0
+TotalVisits 12                  
+TotalUnique 6                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 6                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 166 310 0
+1 3 5 10855 8 19 482
+2 0 0 0 3 4 0
+3 1 3 4221 1 13 241
+4 0 0 0 3 5 2127
+5 0 0 0 5 6 0
+6 0 0 0 2 4 0
+7 2 2 670 1 1 0
+8 1 1 335 0 0 0
+9 0 0 0 1 1 0
+10 0 0 0 3 4 0
+11 1 1 335 5 5 0
+12 0 0 0 1 1 0
+13 2 2 670 3 5 0
+14 0 0 0 2 2 0
+15 1 1 335 4 4 0
+16 0 0 0 1 3 0
+17 0 0 0 1 1 0
+18 0 0 0 2 2 0
+19 0 0 0 3 4 0
+20 1 3 4221 1 13 241
+21 1 1 335 3 6 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+kw 10 12 7236
+hk 1 3 7763
+us 1 1 2757
+cn 1 3 4221
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+Googlebot/ 1 2127 20211201045929 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+xml 9 3015 0 0
+png 6 7934 0 0
+html 4 11028 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+Unknown 1 1
+macosx 9 9
+linuxandroid 6 2
+ios_iphone 3 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 4
+chrome86.0.4240.99 3 1
+Unknown 10 10
+chrome92.0.4515.166 3 1
+safari15.0 3 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+python-requests/2.26.0 20211206010833
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+MacOutlook/16.55.21111400_(ARM64_Mac_OS_X_12.0.1_(Build_21A559)) 20211205152348
+MacOutlook/16.55.21111400_(Intelx64_Mac_OS_X_11.6_(Build_20G165)) 20211207111213
+python-requests/2.26.0 20211206010833
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 13 13
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 6
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+301 4 964
+404 402 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 313
+/Public/Home/ecshe_css/main.css 1 -
+/login/kefuxian.mvc 1 -
+/admin_user/m_tixian.php 1 -
+/Public/uploads/web/step1.png 1 -
+/static/icon/my.png 1 -
+/api/product/info/1 1 -
+/assets/js/bootstrap.bundle.min.js 5 https://aucvape.com/securitycode/
+/api/linkPF 1 -
+/index/index/andiro 1 -
+/JS/loginstatus.js 1 -
+/admin/webadmin.php 1 -
+/static/local/img/userCenter/hourlyPrivilege.svg 1 -
+/202110/images/public.css 1 -
+/infe/rest/flash/getServerIP.json 1 -
+/base/exchange_article/index/classid/1/id/1 1 -
+/Public/Wchat/js/cvphp.js 1 -
+/Content/m_1/js/m_1_Jquery.js 1 -
+/index/api/config 1 -
+/public/admin.php/api/index/loansList 1 -
+/home/GetQrCodeInfo 1 -
+/home/help 1 -
+/index/index/purchase.html 1 -
+/index/getNews 1 -
+/static/wap/js/common.js 1 -
+/data/json/config.json 1 -
+/js/bankCheck.js 1 -
+/index/Mobile/fenshi 1 -
+/api/index 1 -
+/static/index/js/lk/order.js 1 -
+/web/api/getBanner 1 -
+/api/stock/getSingleStock.do 1 -
+/api/v/index/queryOfficePage 1 -
+/gaga/city.php 1 -
+/Content/css/wzwstylel.css 1 -
+/Css/Hm.css 1 -
+/api/system/system/config/get 1 -
+/static/mobile/user.html 1 -
+/douyinpay.php 1 -
+/assets/js/wow.min.js 5 https://aucvape.com/securitycode/
+/assets/res/mods/room.js 1 -
+/assets/css/theme.css 3 https://aucvape.com/securitycode/
+/zz2/address.php 1 -
+/getLocale 1 -
+/zz/address.php 1 -
+/index.php 1 -
+/api/currency/quotation_new 1 -
+/mobile/v3/appSuperDownload.do 1 -
+/files/pub_rem.js 1 -
+/csjs/bankCheck.js 1 -
+/Public/home/common/js/index.js 1 -
+/pages/console/js/common.js 1 -
+/Home/Get/getJnd28 1 -
+/js/basic.js 1 -
+/api/web/user/getIndexData.php 1 -
+/m/ 1 -
+/js/base1.js 1 -
+/data/ticker_24hr 1 -
+/ajax/allcoin_a/id/0 1 -
+/public/static/css/public.css 1 -
+/kkrps/im_group/show_members 1 -
+/api/lottery/color 1 -
+/login/img/nyyh/chkjs.js 1 -
+/home/main/login 1 -
+/Public/js/common.js 1 -
+/dist/images/mask/bg1.jpg 1 -
+/static/xianyu/js/bankCheck.js 1 -
+/Content/common/web/CommonActivity.css 1 -
+/app/js/base.js 1 -
+/ws/index/getTheLotteryInitList 1 -
+/appxz/index.html 1 -
+/user/Login 1 -
+/base/exchange_index/changepwdfirst 1 -
+/ipl/app/flash/publicbmw/ball/FigLeaf.js 1 -
+/api/product/topRank 1 -
+/index_files/bankCheck.js 1 -
+/step1.asp 1 -
+/cscpLoginWeb/scripts/public.js 1 -
+/sitemap.xml 8 -
+/static/css/mobile.css 1 -
+/css/info.css 1 -
+/api/config/info 1 -
+/m/ticker/usdtqc 1 -
+/api/exclude/siteConfig/webSiteConfig 1 -
+/assets/app-manifest.json 1 -
+/api/message/webInfo 1 -
+/m/allticker/1 1 -
+/home 1 -
+/friendGroup/list 1 -
+/portal/index/protocol.html 1 -
+/assets/extension/market/css/mt4.css 1 -
+/infe/rest/fig/advertise/common.json 1 -
+/index.php/api/other/appSetting 1 -
+/melody/api/v1/pageconfig/list 1 -
+/loan 1 -
+/static/js/user.js 1 -
+/biz/server/config 1 -
+/static/wap/css/index.css 1 -
+/jiaoyimao/default.css 1 -
+/Res/font/font.css 1 -
+/Public/initJs.php 1 -
+/sys/setting/all 1 -
+/static/home/css/css.css 1 -
+/wap/trading/lastKlineParameter 1 -
+/images/no.jpg 1 -
+/service 2 -
+/static/home/js/rooms.js 1 -
+/langConfig.js 1 -
+/api/v1/member/kefu 1 -
+/static/diff_worker.js 1 -
+/static/img/bitbeb-logo.png 1 -
+/assets/img/logo_white.svg 3 https://aucvape.com/securitycode/
+/common/template/lottery/lecai/css/style.css 1 -
+/sys/setting/app 1 -
+/lib/client/etc/hometu.jpg 1 -
+/js/common.js 1 -
+/Pc/Lang/index.html 1 -
+/index.html 1 -
+/ajax 1 -
+/im/h5/ 1 -
+/api/default/login-page 1 -
+/style.css 1 -
+/assets/room/css/room_mobile.css 1 -
+/api/index/loansList 1 -
+/Public/Home/js/common.js 1 -
+/resources/main/common.js 1 -
+/myConfig.js 1 -
+/Promotions/list.mvc 1 -
+/themes/simpleboot3/public/assets/newpc/download_pattern_right.png 1 -
+/api/uploads/apimap 1 -
+/img/close.png 1 -
+/api/user/mobilelogin 1 -
+/app/common/getRegisterSet 1 -
+/img/xxing.png 1 -
+/api/public/ 1 -
+/statics/js/API.js 1 -
+/wap/banner/details 1 -
+/h5/ 1 -
+/site/info 1 -
+/js/json.js 1 -
+/common/download.js 1 -
+/api/Index/getLottery 1 -
+/xy/image/jiantou.png 1 -
+/Public/Wchat/css/index.css 1 -
+/fePublicInfo/ 1 -
+/proxy/settings 1 -
+/public/img/cz1.png 1 -
+/Recruit/download_url 1 -
+/Templates/user/finance/css/userPay.css 1 -
+/css/all.css 1 -
+/api/link/platform 1 -
+/nyyh/chkjs.js 1 -
+/api/user/dataDictionaryService/list 1 -
+/css/dafa.css 1 -
+/static/config.js 1 -
+/template/css/login.css 1 -
+/static/css/public.css 1 -
+/static/admincp/js/common.js 1 -
+/css/main.css 1 -
+/xianyu/index/setp1.html 1 -
+/assets/css/animate.css 3 https://aucvape.com/securitycode/
+/member/js/lang_zh_CN.js 1 -
+/cscpLoginWeb/app/home 1 -
+/template/920ka/js/woodyapp.js 1 -
+/index/login/register 1 -
+/public/web/js/add/com.js 1 -
+/index/index/js/api.js 1 -
+/s_api/basic/download/info 1 -
+/Public/css/_pk10.css 1 -
+/Templates/user/js/global.js 1 -
+/api/mobile/checkStrategyHistory 1 -
+/manager/js/left.js 1 -
+/proxy/games 1 -
+/verification.asp 1 -
+/getConfig/getArticle.do 2 -
+/mobile/bluev3/img/bg.png 1 -
+/Public/home/wap/css/qdgame.css 1 -
+/template/tmp1/js/common.js 1 -
+/client/api/findConfigByKey 1 -
+/Scripts/common.js 1 -
+/static/tabBar/home_cur.png 1 -
+/mtja.html 1 -
+/room/script/face.js 1 -
+/views/home/home.js 1 -
+/static/download/style.css 1 -
+/static/css/index.css 1 -
+/km.asmx/getPlatParam 1 -
+/images/pay.png 1 -
+/client/api/findFreeTrade 1 -
+/Template/Mobile/js/main.js 1 -
+/img/login.png 1 -
+/skin/js/common.js 1 -
+/static/home/css/common.css 1 -
+/anquan/qgga.asp 1 -
+/im/ 1 -
+/api/user/get_user_group 1 -
+/api/apps/config 1 -
+/user/login.html 1 -
+/securitycode/www.google.com 3 https://aucvape.com/securitycode/
+/static/h5/img/icon__create-group.png 1 -
+/static/guide/ab.css 1 -
+/kkrp/site/info 1 -
+/xy/ 1 -
+/images/src_images_but_dianz_s.png 1 -
+/lanren/css/global.css 1 -
+/thriveGame.css 1 -
+/user/getAllNicknames 1 -
+/Home/Bind/binding 1 -
+/im/App/config 1 -
+/css/nsc/reset.css 1 -
+/auth/oauth/token 1 -
+/public/web/css/add//index.css 1 -
+/api/site/getInfo.do 1 -
+/index.php/sign 1 -
+/api/customerServiceLink 1 -
+/api/config-init 1 -
+/public/static/css/denglu.css 1 -
+/public/static/home/js/moblie/login.js 1 -
+/getConfig/listPopFrame.do 2 -
+/template/920ka/css/lsy.css 1 -
+/api/user/ismustmobile 1 -
+/h5/static/tabbar/txl.png 1 -
+/user/userlist 1 -
+/assets/js/site.js 5 https://aucvape.com/securitycode/
+/api/common/getConfig 1 -
+/index/Mobile/kline_week 1 -
+/Public/css/errorCss.css 1 -
+/views/commData/commonSite.js 1 -
+/css/style.css 1 -
+/market/market-ws/iframe.html 1 -
+/api/getconfig.aspx 1 -
+/index.php/Wap/Api/getBanner 1 -
+/market/getStockBaseInfo 1 -
+/static/data/configjs.js 1 -
+/static/index/css/iindex.css 1 -
+/api/wallet/redDetail 1 -
+/mytio/config/base 1 -
+/.well-known/assetlinks.json 1 -
+/Home/Index/ajaxTJ 1 -
+/public/wap/js/basis.js 1 -
+/assets/images/bg.jpg 1 -
+/api/app/config_new 1 -
+/room/getRoomBangFans 1 -
+/static/image/chicang.png 1 -
+/Public/home/js/fukuang.js 1 -
+/assets/js/jquery-3.6.0.min.js 5 https://aucvape.com/securitycode/
+/static/home/csjs/bankCheck.js 1 -
+/api/index/webconfig 1 -
+/banner.do 1 -
+/leftDao.php 1 -
+/apis/api/index 1 -
+/nyyh/game.css 1 -
+/info.php 1 -
+/Public/Home/js/cls.js 1 -
+/static/home/css/new_cfb.css 1 -
+/mh/phone.do 1 -
+/assets/css/custom.css 3 https://aucvape.com/securitycode/
+/api/contactWay 1 -
+/skin/main/onload.js 1 -
+/wap/trading/get_newallorder_ajax 1 -
+/static/common/js/global.js 1 -
+/static/data/thirdgames.json 1 -
+/wap/api/exchangerateuserconfig!get.action 1 -
+/static/common/js/common.js 1 -
+/assets/img/bg/all-vapes-1.jpg 1 -
+/files/pub_reset.css 1 -
+/js/app.ling.js 1 -
+/public/css/style.css 1 -
+/s_api/basic/config_js 1 -
+/Home/GetAllGameCategory 1 -
+/site.js 1 -
+/v1/management/tenant/getSpeedDomain 1 -
+/assets/dist/static/js/vendor_prod.js 1 -
+/api/v1/about 1 -
+/static/data/gamedatas.js 1 -
+/api/ApiHub/fetchJinse 1 -
+/ 41 -
+/js/tvConfig.js 1 -
+/Content/Wap/base.css 1 -
+/resources/css/headernav.css 1 -
+/js/dianzan.js 1 -
+/home/login/login_index.html 1 -
+/index.php/Wap/Api/getSystemNotice 1 -
+/n/news/banner 1 -
+/assets/js/dmshub.js 1 -
+/img/zllqdk.png 1 -
+/h5/static/cert/icon_yanzhengma.png 1 -
+/css/app.css 1 -
+/Home/GetInitSource 1 -
+/legal/currency/set 1 -
+/template/js/comm/Confrim.js 1 -
+/api/apps 1 -
+/robots.txt 13 -
+/public/h5static/js/main.js 1 -
+/api/content_bottom 1 -
+/mobile/css/base.css 1 -
+/config.js 1 -
+/admin 1 -
+/common/member/js/user.util.js 1 -
+/Public/home/js/check.js 1 -
+/homes/ 2 -
+/stock/search.html 1 -
+/guess/list.php 1 -
+/Public/css/hall.css 1 -
+/api/index/index 1 -
+/login.html 1 -
+/js/pups.js 1 -
+/Public/Mobile/ecshe_css/wapmain.css 1 -
+/site/get-hq 1 -
+/api/index/grailindex 1 -
+/css/skin/ymPrompt.css 1 -
+/js/a.script 1 -
+/public/appapi/images/error.jpg 1 -
+/index/police/index.html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 6
+188.70.2.185 6 6 2010 20211207111213
+37.34.210.204 3 3 1005 20211205152348
+45.64.241.92 1 3 7763 20211201012650
+129.211.167.70 1 1 2757 20211206010833
+188.70.17.75 1 3 4221 20211205030654
+106.33.174.151 1 3 4221 20211205202722
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20211201 2 4 8098 2
+20211203 1 1 335 1
+20211204 3 3 1005 2
+20211205 4 8 9112 4
+20211206 2 2 3092 2
+20211207 1 1 335 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 1
+0s-30s 11
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/autodiscover/autodiscover.xml 9 3015 8 8
+/securitycode/ 4 11028 4 4
+END_SIDER

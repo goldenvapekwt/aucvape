@@ -1,0 +1,565 @@
+@font-face {
+  font-family: "MyWebFont";
+  src: url("webfont.eot"); /* IE9 Compat Modes */
+  src: url("webfont.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("webfont.woff2") format("woff2"),
+    Super Modern Browsers url("webfont.woff") format("woff"),
+    /* Pretty Modern Browsers */ url("webfont.ttf") format("truetype"),
+    /* Safari, Android, iOS */ url("webfont.svg#svgFontName") format("svg"); /* Legacy iOS */
+}
+
+@font-face {
+  font-family: "gotham";
+  src: url(./fonts/Gotham-Thin.otf) format("opentype"),
+    url(./fonts/Gotham-ThinItalic.otf) format("opentype");
+  font-style: italic;
+  font-weight: 100;
+}
+@font-face {
+  font-family: "gotham";
+  src: url(./fonts/Gotham-Light.otf) format("opentype");
+  font-weight: 200;
+}
+@font-face {
+  font-family: "gotham";
+  src: url(./fonts/Gotham-Medium.otf) format("truetype"),
+    url(./fonts/iCiel\ Gotham-Medium.ttf) format("truetype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "gotham";
+  src: url(./fonts/Gotham-Bold.otf) format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "gotham-black";
+  src: url(./fonts/Gotham-Black.ttf) format("truetype"),
+    url(./fonts/Gotham-Black.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "gotham-book";
+  src: url(./fonts/Gotham-Book.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "anything";
+  src: url(./fonts/Anything\ Okay!\ OTF.otf) format("opentype");
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "gotham", Tahoma, sans-serif;
+}
+
+section {
+  background-color: black;
+  width: 100%;
+  height: 100vh;
+  /* overflow: hidden; */
+  position: relative;
+}
+
+.full-black-shadow {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.85);
+  top: 0;
+  left: 0;
+}
+
+.bg-black {
+  background: black;
+}
+
+section.hero {
+  /* background: url(../img/bg/hero.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+  transition: height 2s cubic-bezier(0.075, 0.82, 0.165, 1); */
+  height: fit-content;
+}
+.location-bg,
+.common-bg,
+.product-bg {
+  background: url(../img/bg/hero.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+  transition: height 2s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.product-bg {
+  background: url(../img/bg/product.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+  transition: height 2s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.contact-bg {
+  background: url(../img/bg/hero.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: fit-content;
+  min-height: 100vh;
+  transition: height 2s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.brand-header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9;
+}
+
+.carousel-item img.bg {
+  /* opacity: 0.5; */
+  -webkit-animation: zoom 22s;
+  animation: zoom 22s;
+}
+
+.carousel-caption {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+.carousel-caption > div {
+  position: absolute;
+}
+
+.carousel-caption div.left {
+  top: 17%;
+  left: 4%;
+}
+
+.carousel-caption div.right {
+  top: 17%;
+  right: 4%;
+}
+
+.carousel-caption .item-title {
+  font-family: "gotham", sans-serif;
+  font-size: 4rem;
+}
+.carousel-caption .item-flavor {
+  font-family: "anything", sans-serif;
+  font-size: 5rem;
+  text-transform: lowercase;
+  margin-top: -50px;
+}
+
+/* Cola */
+.carousel-caption > div.cola {
+  left: 5%;
+  top: 15%;
+}
+.cola > .item-title {
+  font-size: 2.5rem;
+}
+
+/* pink-lemonda */
+.carousel-caption > div.pink-lemonade {
+  top: 15%;
+  right: 6%;
+}
+.pink-lemonade > .item-title {
+  font-size: 3rem;
+  margin-left: 9rem;
+}
+.pink-lemonade > .item-flavor {
+  font-size: 8rem;
+}
+
+/* watermelon */
+.carousel-caption > div.watermelon {
+  right: 10%;
+  bottom: 12%;
+}
+.watermelon > .item-flavor {
+  font-size: 5rem;
+}
+
+/* Raspberry */
+.carousel-caption > div.raspberry {
+  right: 6%;
+  bottom: 12%;
+}
+.raspberry > .item-title {
+  font-size: 3.1rem;
+}
+.raspberry > .item-flavor {
+  margin-left: -15rem;
+}
+
+/* Peach */
+.carousel-caption > div.peach {
+  right: 9%;
+  bottom: 3%;
+}
+.peach > .item-title {
+  font-size: 2.5rem;
+}
+.peach > .item-flavor {
+  font-size: 4rem;
+}
+
+/* Tobacco */
+.carousel-caption > div.tobacco {
+  right: 8rem;
+  bottom: 10rem;
+}
+.tobacco > .item-title {
+  font-size: 2rem;
+}
+.tobacco > .item-flavor {
+  font-size: 4.6rem;
+  margin-top: -5px;
+}
+
+/* Mango */
+.carousel-caption > div.mango {
+  right: 8rem;
+  bottom: 15rem;
+}
+.mango > .item-title {
+  font-size: 5.5rem;
+}
+
+/* Grape */
+.carousel-caption > div.grape {
+  left: 50%;
+  bottom: 16%;
+  transform: translateX(-50%);
+}
+
+.carousel-caption > div.all {
+  right: 20px;
+  bottom: 20px;
+}
+
+.hero .nav-logo,
+.nav-logo {
+  height: 30px;
+}
+.hero .content .title {
+  font-size: 20em;
+  font-weight: 600;
+  font-family: "anything", "gotham";
+}
+section.product {
+  /* background: url(../img/bg/product.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */
+
+  height: fit-content;
+}
+
+.brand-warning {
+  color: white;
+  text-align: center;
+  padding: 15px auto;
+  background: rgba(0, 0, 0, 1);
+}
+
+nav a {
+  font-size: 16px;
+}
+
+.nav-top-line {
+  border-top: 5px solid;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.nav-top-line.fixed-top {
+  background: black;
+}
+
+.about .title {
+  font-weight: 400;
+  font-size: 60px;
+  margin-bottom: 50px;
+}
+
+.about .summary {
+  font-size: 28px;
+  border-left: 7px solid;
+  color: white;
+  font-weight: 100;
+  padding-left: 20px;
+}
+
+.product .flavor {
+  border-left: 7px solid;
+  padding-left: 30px;
+  font-weight: 800;
+  font-family: "gotham";
+  position: absolute;
+  bottom: 5%;
+}
+
+section.delta {
+  height: fit-content;
+}
+
+section.map {
+  /* background: url(../img/bg/map.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */
+  height: fit-content;
+}
+.map .content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.map a {
+  text-decoration: none;
+}
+.map h1 {
+  font-size: 70px;
+}
+.map .content img {
+  height: 200px;
+}
+
+.brand-rounded {
+  border-radius: 25px;
+}
+
+.wrapper-blur {
+  -webkit-filter: blur(1px);
+  -moz-filter: blur(1px);
+  -o-filter: blur(1px);
+  -ms-filter: blur(1px);
+  filter: blur(1px);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.9s);
+  filter: blur(3px);
+  z-index: -1;
+}
+
+/* Location page */
+
+#gmap {
+  width: 100%;
+  max-height: 55vh;
+  height: 600px;
+  /* margin: 3px; */
+
+  /* calc(100vh - 84px); */
+}
+
+/* Modal modification */
+
+.modal .warning-modal {
+  border: 2px solid;
+  background: rgba(0, 0, 0, 0.8);
+  /* filter: blur(1px); */
+  border-radius: 50px;
+  padding: 50px;
+}
+
+.warning-modal img {
+  height: 60px;
+  margin-bottom: 45px;
+}
+
+.warning-modal p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body.modal-open section.hero {
+  -webkit-filter: blur(2px);
+  -moz-filter: blur(2px);
+  -o-filter: blur(2px);
+  -ms-filter: blur(2px);
+  filter: blur(2px);
+}
+
+/* contact-us page */
+
+.contact-us p {
+  font-weight: 500;
+  font-size: 26px;
+}
+
+.contact-us p:first-child {
+  margin-top: 5rem;
+}
+.contact-us p span {
+  margin-left: 3rem;
+  color: white;
+}
+
+.contact-us p small {
+  font-size: 14px;
+  font-weight: 100;
+}
+
+.rating {
+  color: white;
+}
+
+.rating i {
+  font-size: 2rem;
+  /* margin: 3px 8px; */
+  cursor: pointer;
+  transform: scale(1);
+  color: white;
+  -webkit-animation: stretch-bounce 0.5s ease-in-out;
+  animation: stretch-bounce 0.5s ease-in-out;
+}
+
+.rating i.active {
+  color: orange;
+}
+
+/* Mobile view changes */
+
+@media (max-width: 575.98px) {
+  nav a {
+    font-size: 12px;
+  }
+
+  .brand-header {
+    position: relative;
+  }
+  .brand-warning {
+    font-size: 10px;
+  }
+  .hero .nav-logo,
+  .nav-logo {
+    height: 35px;
+  }
+
+  .about {
+    height: fit-content;
+  }
+
+  .about .title {
+    font-size: 30px;
+  }
+
+  .about .summary {
+    font-size: 20px;
+    margin: auto 10px;
+  }
+
+  .product .flavor h1 {
+    font-size: 18px;
+  }
+
+  #imgDispProduct {
+    height: 400px;
+  }
+
+  .map h1 {
+    font-size: 18px;
+  }
+  .map img {
+    height: 100px;
+  }
+  .map .content img {
+    height: 40px;
+  }
+
+  .contact .h5 {
+    font-size: 14px;
+  }
+
+  .contact-bg {
+    height: fit-content;
+    min-height: 100vh;
+  }
+
+  .contact-us p {
+    font-size: 22px;
+  }
+  .txt-code {
+    width: 80px !important;
+    font-size: 10px;
+  }
+}
+
+/* Keyframe */
+@-webkit-keyframes zoom {
+  from {
+    -webkit-transform: scale(1.1, 1.1);
+  }
+  to {
+    -webkit-transform: scale(1, 1);
+  }
+}
+
+@keyframes zoom {
+  from {
+    transform: scale(1.1, 1.1);
+  }
+  to {
+    transform: scale(1, 1);
+  }
+}
+
+@-webkit-keyframes stretch-bounce {
+  0% {
+    -webkit-transform: scale(1);
+  }
+  25% {
+    -webkit-transform: scale(1.5);
+  }
+  50% {
+    -webkit-transform: scale(0.9);
+  }
+  75% {
+    -webkit-transform: scale(1.2);
+  }
+  100% {
+    -webkit-transform: scale(1);
+  }
+}
+
+@keyframes stretch-bounce {
+  0% {
+    transform: scale(1);
+  }
+  25% {
+    transform: scale(1.5);
+  }
+  50% {
+    transform: scale(0.9);
+  }
+  75% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

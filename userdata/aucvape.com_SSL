@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/gjq4bqkro9y9/public_html
+group: gjq4bqkro9y9
+hascgi: 1
+homedir: /home/gjq4bqkro9y9
+ip: 92.205.3.41
+ipv6: ~
+owner: gdresell
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@aucvape.com
+serveralias: mail.aucvape.com www.aucvape.com
+servername: aucvape.com
+ssl: 1
+usecanonicalname: 'Off'
+user: gjq4bqkro9y9
+userdirprotect: ''

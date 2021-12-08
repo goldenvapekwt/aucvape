@@ -1,0 +1,5 @@
+{"type":"info","data":{"description":"No virus detected in upload “backup.zip”.","file":"backup.zip"},"name":"no-virus"}
+{"data":{"description":"The system is extracting the “/home/gjq4bqkro9y9/tmp/Cpanel_Form_file.upload.23e5e4fb” archive file.","file":"backup.zip","archive":"/home/gjq4bqkro9y9/tmp/Cpanel_Form_file.upload.23e5e4fb"},"name":"untar","type":"info"}
+{"type":"done","data":{"file":"backup.zip","description":"The system successfully restored the “/home/gjq4bqkro9y9” directory from the backup file “backup.zip”."},"name":"restore_done"}
+{"type":"info","data":{"file":"backup.zip"},"name":"processed"}
+{"type":"close"}

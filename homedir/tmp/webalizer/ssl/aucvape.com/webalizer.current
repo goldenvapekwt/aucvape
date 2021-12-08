@@ -1,0 +1,362 @@
+# Webalizer V2.23-05 Incremental Data - 12/07/2021 16:28:22
+2021 12 7 16 28 22
+432 20 45 6 7 30 25068 181 38 0
+9 3 310 1 7
+28 5 10466 12 10 9
+321 0 0 8 144 7
+9 1 335 8 4 4
+9 3 1005 6 4 4
+41 8 9594 9 6 4
+12 2 3333 8 9 6
+12 1 335 9 4 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+310 0 0 136
+24 5 11337 8
+4 0 0 3
+16 3 4462 2
+5 1 2127 3
+6 0 0 4
+4 0 0 1
+3 2 670 0
+1 1 335 0
+1 0 0 0
+4 0 0 2
+6 1 335 4
+1 0 0 1
+7 2 670 1
+2 0 0 2
+5 1 335 3
+3 0 0 0
+1 0 0 1
+2 0 0 2
+4 0 0 3
+16 3 4462 2
+7 1 335 3
+0 0 0 0
+0 0 0 0
+0
+0
+0
+20
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+408
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/securitycode/
+0 4 0 11028 0 0
+/fav/favicon-32x32.png
+0 3 0 2646 0 0
+/fav/favicon-16x16.png
+0 2 0 1164 0 0
+/autodiscover/autodiscover.xml
+0 9 0 3015 0 0
+/contact.html
+0 1 0 2127 1 1
+/fav/apple-touch-icon.png
+0 1 0 4124 0 0
+# End Of Table - urls
+# -sites- (monthly)
+188.70.17.75
+0 16 3 4462 1 1638673614
+/securitycode/
+66.249.66.138
+0 1 0 0 1 1638873696
+-
+51.15.205.3
+0 1 0 0 1 1638386426
+-
+40.77.167.95
+0 2 0 0 0 0
+-
+3.16.81.222
+0 2 0 0 1 1638755938
+-
+45.64.241.92
+0 15 3 8004 1 1638322010
+/securitycode/
+137.226.113.44
+0 1 0 0 1 1638337582
+-
+54.191.138.166
+0 1 0 0 1 1638875331
+-
+193.233.157.155
+0 2 0 0 1 1638799560
+-
+123.58.209.89
+0 310 0 0 1 1638403645
+-
+92.118.160.57
+0 1 0 0 1 1638683262
+-
+104.131.79.205
+0 1 0 0 1 1638820110
+-
+37.34.210.204
+0 3 3 1005 0 0
+-
+178.63.26.114
+0 2 0 0 1 1638409858
+-
+66.249.66.193
+0 1 0 0 1 1638857652
+-
+54.149.171.133
+0 1 0 0 1 1638444022
+-
+54.244.16.90
+0 1 0 0 1 1638532841
+-
+157.55.39.30
+0 8 0 0 0 0
+-
+66.249.66.2
+0 1 0 0 1 1638838842
+-
+120.229.33.239
+0 1 0 0 0 0
+-
+51.158.108.77
+0 1 0 0 1 1638550964
+-
+18.237.237.85
+0 1 0 0 1 1638615926
+-
+106.33.174.151
+0 16 3 4462 1 1638736042
+/securitycode/
+52.57.179.212
+0 1 0 0 1 1638371735
+-
+34.217.84.38
+0 1 0 0 1 1638357246
+-
+138.197.103.108
+0 1 0 0 1 1638817004
+-
+66.249.66.4
+0 1 0 0 0 0
+-
+51.158.108.61
+0 1 0 0 1 1638385779
+-
+173.252.111.6
+0 2 0 0 1 1638411695
+-
+113.116.75.72
+0 3 0 0 1 1638479880
+-
+66.249.64.198
+0 4 0 0 2 1638652918
+-
+34.96.130.1
+0 1 0 0 1 1638803883
+-
+31.13.127.24
+0 1 0 0 0 0
+-
+66.249.64.196
+0 2 0 0 2 1638622845
+-
+129.211.167.70
+0 2 1 2998 1 1638752913
+/securitycode/
+66.249.64.193
+0 4 1 2127 2 1638593504
+-
+207.46.13.41
+0 2 0 0 0 0
+-
+188.70.2.185
+0 6 6 2010 0 0
+-
+212.9.31.15
+0 1 0 0 1 1638421722
+-
+173.252.111.12
+0 1 0 0 1 1638411694
+-
+159.203.196.79
+0 1 0 0 1 1638717830
+-
+157.55.39.149
+0 4 0 0 0 0
+-
+5.255.253.149
+0 2 0 0 1 1638352901
+-
+120.229.33.195
+0 1 0 0 0 0
+-
+216.19.195.47
+0 1 0 0 1 1638555227
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+66.249.66.138
+0 1 0 0 1 1638873696
+-
+40.77.167.95
+0 2 0 0 0 0
+-
+54.191.138.166
+0 1 0 0 1 1638875331
+-
+66.249.66.193
+0 1 0 0 1 1638857652
+-
+157.55.39.30
+0 2 0 0 0 0
+-
+66.249.66.2
+0 1 0 0 1 1638838842
+-
+66.249.66.4
+0 1 0 0 0 0
+-
+207.46.13.41
+0 2 0 0 0 0
+-
+188.70.2.185
+0 1 1 335 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://aucvape.com/securitycode/www.google.com
+0 1
+https://yahoo.ca/
+0 1
+92.205.3.41
+0 1
+- (Direct Request)
+0 387
+https://www.aucvape.com/
+0 1
+https://aucvape.com/securitycode/
+0 39
+https://aucvape.com/
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (Linux; Android 8.1; EML-L29 Build/HUAWEIEML-L29; xx-xx) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 304
+okhttp/3.3.1
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+0 2
+python-requests/2.26.0
+0 2
+webprosbot/2.0 (+mailto:abuse-6337@webpros.com)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 7
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 16
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 5
+Mozilla/5.0 (Linux; Android 11; M2007J17C Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 16
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.268
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 
+0 16
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 2
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.86 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+0 3
+Expanse indexes the network perimeters of our customers. If you have any questions or concerns, please reach out to: scaninfo
+0 1
+Mozilla/5.0 (X11; U; SunOS sun4u; en-US; rv:1.9b5) Gecko/2008032620 Firefox/3.0b5
+0 1
+Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G9810) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515
+0 15
+NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile S
+0 7
+MacOutlook/16.55.21111400 (Intelx64 Mac OS X 11.6 (Build 20G165))
+0 6
+MacOutlook/16.55.21111400 (ARM64 Mac OS X 12.0.1 (Build 21A559))
+0 3
+Mozilla/5.0 (X11; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

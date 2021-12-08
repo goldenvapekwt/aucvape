@@ -1,0 +1,38 @@
+; cPanel first:86.0.40 (update_time):1633886008 Cpanel::ZoneFile::VERSION:1.3 hostname:sxb1plzcpnl473176.prod.sxb1.secureserver.net latest:86.0.40
+; Zone file for aucvape.com
+$TTL 14400
+aucvape.com.	86400	IN	SOA	160.153.146.1.	root.sxb1plzcpnl473176.prod.sxb1.secureserver.net.	(
+						2021101001 ;Serial Number
+						3600 ;refresh
+						1800 ;retry
+						1209600 ;expire
+						86400	)
+
+aucvape.com.	86400	IN	NS	160.153.146.1.
+aucvape.com.	86400	IN	NS	160.153.146.2.
+
+
+aucvape.com.	14400	IN	A	92.205.3.41
+
+aucvape.com.	14400	IN	MX	0	aucvape.com.
+
+mail	14400	IN	CNAME	aucvape.com.
+www	14400	IN	CNAME	aucvape.com.
+whm	14400	IN	A	92.205.3.41
+_caldav._tcp	14400	IN	SRV	0	0	2079	sxb1plzcpnl473176.prod.sxb1.secureserver.net.
+_caldav._tcp	14400	IN	TXT	path=/
+autoconfig	14400	IN	A	92.205.3.41
+cpcalendars	14400	IN	A	92.205.3.41
+cpanel	14400	IN	A	92.205.3.41
+_carddavs._tcp	14400	IN	SRV	0	0	2080	sxb1plzcpnl473176.prod.sxb1.secureserver.net.
+_carddavs._tcp	14400	IN	TXT	path=/
+_caldavs._tcp	14400	IN	SRV	0	0	2080	sxb1plzcpnl473176.prod.sxb1.secureserver.net.
+_caldavs._tcp	14400	IN	TXT	path=/
+webmail	14400	IN	A	92.205.3.41
+_carddav._tcp	14400	IN	SRV	0	0	2079	sxb1plzcpnl473176.prod.sxb1.secureserver.net.
+_carddav._tcp	14400	IN	TXT	path=/
+autodiscover	14400	IN	A	92.205.3.41
+webdisk	14400	IN	A	92.205.3.41
+_autodiscover._tcp	14400	IN	SRV	0	0	443	cpanelemaildiscovery.cpanel.net.
+cpcontacts	14400	IN	A	92.205.3.41
+default._domainkey	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs5CPOuBuIkzPS0z9/K9fi7yOOWzJ8sM8Gom7B3U+o2FuMpUagWdQCPCBn39S9Jv7z/oBZ2bdi0wx+uOeoO15M8STnC0UcM7L53YVTUugpKHDe7tZ1p9eZJGtPCf/aW3NAfAeO0B/4cKR6gYeVh1wH6mnE5yAC56lP/L52uwT+E/ydGaKr9NLpqJOuw/Y8Qizr" CJt3To4EwdjfKJGtlz/pNKVjpgO+EQGv5KC4viWokYZ00wgwt45gY4LdE3J8x8FPQbyK7QgBg0EfrtHga8gpDw2CVwQViCtEsbsz8STE0pMp3+coxvFPkWNcvi9r0bkWLLkYtR/zqRG2cKGs/Sf9QIDAQAB\;
